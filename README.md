@@ -1,1 +1,1 @@
-# disc0rd-l0gin
+# discord-login
